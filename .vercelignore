@@ -1,0 +1,10 @@
+node_modules
+.git
+.env
+.env.*
+!.env.example
+.gemini
+.impeccable
+docs
+tests
+README.md
